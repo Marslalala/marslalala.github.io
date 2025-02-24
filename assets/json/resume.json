@@ -22,7 +22,7 @@
     {
       "name": "Ford Motor Company",
       "position": "Data Scientist Internship",
-      "location": "Dearborn, MI, USA",
+      "location": "Dearborn, MI",
       "startDate": "2024-05",
       "endDate": "2024-07",
       "summary": "<div style='text-align: justify;'>Implemented a machine learning-based clustering analysis to address vehicle battery drain issues during parking, aiming to help Ford reducing warranty costs and enhancing customer satisfaction.</div>",
@@ -32,7 +32,7 @@
     {
       "name": "AD Service Co.",
       "position": "Consultant",
-      "location": "Birnimgham, England, UK",
+      "location": "Birnimgham, UK",
       "startDate": "2023-01",
       "endDate": "2023-06",
       "summary": "<div style='text-align: justify;'>Completed a due-diligent writing for the team. Helped the company to build an automated dashboard for daily data inspection.</div>",
@@ -54,7 +54,7 @@
   "education": [
     {
       "institution": "University of Michigan - Ann Arbor",
-      "location": "Ann Arbor, MI, USA",
+      "location": "Ann Arbor, MI",
       "url": "https://umich.edu/",
       "area": "Applied Statistics",
       "studyType": "Master of Science",
@@ -66,7 +66,7 @@
 
     {
       "institution": "University College London",
-      "location": "London, England, UK",
+      "location": "London, UK",
       "url": "https://www.ucl.ac.uk/",
       "area": "Statistics, Economics and Finance",
       "studyType": "Bachelor of Science",
@@ -83,7 +83,7 @@
       "name": "Chronic Diseases Analyzing",
       "summary": "<div style='text-align: justify;'>This project analyzed the prevalence of major chronic diseases in the U.S. over time, uncovering trends and patterns using machine learning and data analysis. By leveraging historical health data, the study explored how factors such as demographics and time influence disease occurrence. The findings provided insights into public health trends, aiding in better understanding and potential policy implications.</div>",
       "highlights": "",
-      "location": "Ann Arbor, MI, USA",
+      "location": "Ann Arbor, MI",
       "startDate": "2024-04",
       "endDate": "2024-05",
       "url": ""
