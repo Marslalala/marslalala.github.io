@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Yang Han
+I'm a second year <a href="https://lsa.umich.edu/stats/masters_students/mastersprograms/applied-stats-masters-program.html">Master of Applied Statistics</a> student at the University of Michigan - Ann Arbor. I obtained my Bachelors' degrees in Statistics, Economics and Finiance at the University College London.
