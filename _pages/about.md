@@ -1,6 +1,6 @@
 ---
-layout: Biography
-title: Biography
+layout: about
+title: about
 permalink: /
 subtitle:
 
