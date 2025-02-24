@@ -25,7 +25,7 @@
       "url": "",
       "startDate": "2024-05",
       "endDate": "2024-07",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Implemented a machine learning-based clustering analysis to address vehicle battery drain issues during parking, aiming to help Ford reducing warranty costs and enhancing customer satisfaction for the company.",
       "highlights": ""
     },
 
@@ -35,7 +35,7 @@
       "url": "",
       "startDate": "2023-01",
       "endDate": "2023-06",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Completed a due-diligent writing for the team. Helped the company to build an automated dashboard for daily data inspection.",
       "highlights": ""
     },
 
@@ -45,129 +45,83 @@
       "url": "",
       "startDate": "2021-05",
       "endDate": "2021-09",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Conducted a user growth funnel analysis to assist Xiaomi in developing a comprehensive user growth strategy. Additionally, supported the team by examining abnormal data fluctuations and providing strategic business recommendations based on detailed user data insights.",
       "highlights": ""
     }
     
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
       "institution": "University of Michigan - Ann Arbor",
       "location": "Ann Arbor, MI, USA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://umich.edu/",
       "area": "Applied Statistics",
-      "studyType": "Master",
+      "studyType": "Master of Science",
       "startDate": "2023-08",
       "endDate": "2025-04",
       "score": "",
-      "courses":""
+      "courses":"Statistical Modelling: Regression, Statistical Modelling: Multivariate, Data Science & Analytics Using Python, Computational Methods & Tools in Statistics(R, SQL, etc.), Bayesian Modeling & Computation"
     }, 
 
     {
       "institution": "University College London",
       "location": "London, England, UK",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.ucl.ac.uk/",
       "area": "Statistics, Economics and Finance",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science",
       "startDate": "2019-09",
       "endDate": "2022-07",
       "score": "",
-      "courses": ""
+      "courses": "Probability & Inference, Statistical Inference, Linear Models & The Analysis of Variance, Forecasting using Time Series Analysis, Applied Statistics: Stochastic Process"
     }
 
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-
-
 
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Chronic Diseases Analyzing",
+      "summary": "This project analyzed the prevalence of major chronic diseases in the U.S. over time, uncovering trends and patterns using machine learning and data analysis. By leveraging historical health data, the study explored how factors such as demographics and time influence disease occurrence. The findings provided insights into public health trends, aiding in better understanding and potential policy implications.",
+      "highlights": "",
+      "startDate": "2024-04",
+      "endDate": "2024-05",
+      "url": ""
     }
+  ], 
+
+
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python: Pandas, Numpy, Scikit-learn, scipy, etc.",
+        "SQL",
+        "R Scripting"
+      ]
+    }, 
+    {
+      "name": "Visualization",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python: Matplotlib, Seaborn, Plotly",
+        "Tableau"
+      ]
+    }, 
+    {
+      "name": "Tools",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Microsoft Office",
+        "Gen AI Prompting",
+        "A/B Testing",
+        "GCP (In progress)",
+        "AWS (In progress)"
+      ]
+    }
+
   ]
 }
