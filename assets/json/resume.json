@@ -22,17 +22,17 @@
     {
       "name": "Ford Motor Company",
       "position": "Data Scientist Internship",
-      "location": "Dearborn, US",
+      "location": "Dearborn, MI, USA",
       "startDate": "2024-05",
       "endDate": "2024-07",
-      "summary": "<div style='text-align: justify;'>Implemented a machine learning-based clustering analysis to address vehicle battery drain issues during parking, aiming to help Ford reducing warranty costs and enhancing customer satisfaction for the company.</div>",
+      "summary": "<div style='text-align: justify;'>Implemented a machine learning-based clustering analysis to address vehicle battery drain issues during parking, aiming to help Ford reducing warranty costs and enhancing customer satisfaction.</div>",
       "highlights": ""
     },
 
     {
       "name": "AD Service Co.",
       "position": "Consultant",
-      "location": "Birnimgham, UK",
+      "location": "Birnimgham, England, UK",
       "startDate": "2023-01",
       "endDate": "2023-06",
       "summary": "<div style='text-align: justify;'>Completed a due-diligent writing for the team. Helped the company to build an automated dashboard for daily data inspection.</div>",
@@ -45,7 +45,7 @@
       "location": "Beijing, China",
       "startDate": "2021-05",
       "endDate": "2021-09",
-      "summary": "<div style='text-align: justify;'>Conducted a user growth funnel analysis to assist Xiaomi in developing a comprehensive user growth strategy. Additionally, supported the team by examining abnormal data fluctuations and providing strategic business recommendations based on detailed user data insights.</div>",
+      "summary": "<div style='text-align: justify;'>Conducted a user growth funnel analysis to assist Xiaomi in developing a comprehensive user growth strategy. Additionally, supported the team by examining abnormal data fluctuations and providing strategic business insights based on detailed user data.</div>",
       "highlights": ""
     }
     
@@ -61,7 +61,7 @@
       "startDate": "2023-08",
       "endDate": "2025-04",
       "score": "",
-      "courses":"Statistical Modelling: Regression, Statistical Modelling: Multivariate, Data Science & Analytics Using Python, Computational Methods & Tools in Statistics(R, SQL, etc.), Bayesian Modeling & Computation"
+      "courses":"<div style='text-align: justify;'>Statistical Modelling: Regression, Statistical Modelling: Multivariate, Data Science & Analytics Using Python, Computational Methods & Tools in Statistics(R, SQL, etc.), Bayesian Modeling & Computation</div>"
     }, 
 
     {
@@ -73,7 +73,7 @@
       "startDate": "2019-09",
       "endDate": "2022-07",
       "score": "",
-      "courses": "Probability & Inference, Statistical Inference, Linear Models & The Analysis of Variance, Forecasting using Time Series Analysis, Applied Statistics: Stochastic Process"
+      "courses": "<div style='text-align: justify;'>Probability & Inference, Statistical Inference, Linear Models & The Analysis of Variance, Forecasting using Time Series Analysis, Applied Statistics: Stochastic Process</div>"
     }
 
   ],
@@ -81,8 +81,9 @@
   "projects": [
     {
       "name": "Chronic Diseases Analyzing",
-      "summary": "This project analyzed the prevalence of major chronic diseases in the U.S. over time, uncovering trends and patterns using machine learning and data analysis. By leveraging historical health data, the study explored how factors such as demographics and time influence disease occurrence. The findings provided insights into public health trends, aiding in better understanding and potential policy implications.",
+      "summary": "<div style='text-align: justify;'>This project analyzed the prevalence of major chronic diseases in the U.S. over time, uncovering trends and patterns using machine learning and data analysis. By leveraging historical health data, the study explored how factors such as demographics and time influence disease occurrence. The findings provided insights into public health trends, aiding in better understanding and potential policy implications.</div>",
       "highlights": "",
+      "location": "Ann Arbor, MI, USA",
       "startDate": "2024-04",
       "endDate": "2024-05",
       "url": ""
