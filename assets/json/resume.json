@@ -22,30 +22,30 @@
     {
       "name": "Ford Motor Company",
       "position": "Data Scientist Internship",
-      "url": "",
+      "location": "Dearborn, US",
       "startDate": "2024-05",
       "endDate": "2024-07",
-      "summary": "Implemented a machine learning-based clustering analysis to address vehicle battery drain issues during parking, aiming to help Ford reducing warranty costs and enhancing customer satisfaction for the company.",
+      "summary": "<div style='text-align: justify;'>Implemented a machine learning-based clustering analysis to address vehicle battery drain issues during parking, aiming to help Ford reducing warranty costs and enhancing customer satisfaction for the company.</div>",
       "highlights": ""
     },
 
     {
       "name": "AD Service Co.",
       "position": "Consultant",
-      "url": "",
+      "location": "Birnimgham, UK",
       "startDate": "2023-01",
       "endDate": "2023-06",
-      "summary": "Completed a due-diligent writing for the team. Helped the company to build an automated dashboard for daily data inspection.",
+      "summary": "<div style='text-align: justify;'>Completed a due-diligent writing for the team. Helped the company to build an automated dashboard for daily data inspection.</div>",
       "highlights": ""
     },
 
     {
       "name": "Beijing Xiaomi Technology Co.",
       "position": "Data Analyst Internship",
-      "url": "",
+      "location": "Beijing, China",
       "startDate": "2021-05",
       "endDate": "2021-09",
-      "summary": "Conducted a user growth funnel analysis to assist Xiaomi in developing a comprehensive user growth strategy. Additionally, supported the team by examining abnormal data fluctuations and providing strategic business recommendations based on detailed user data insights.",
+      "summary": "<div style='text-align: justify;'>Conducted a user growth funnel analysis to assist Xiaomi in developing a comprehensive user growth strategy. Additionally, supported the team by examining abnormal data fluctuations and providing strategic business recommendations based on detailed user data insights.</div>",
       "highlights": ""
     }
     
@@ -120,6 +120,15 @@
         "A/B Testing",
         "GCP (In progress)",
         "AWS (In progress)"
+      ]
+    },
+    {
+      "name": "Language",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "English",
+        "Chinese (Mandarin)"
       ]
     }
 
